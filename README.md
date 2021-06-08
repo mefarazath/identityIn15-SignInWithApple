@@ -3,12 +3,10 @@
 
 ## Setting up WSO2 Identity Server
 
-### 1. Change the hostname
-
+1. Change the hostname
 Refer: https://is.docs.wso2.com/en/latest/setup/changing-the-hostname/#changing-the-hostname
 
-### 2. Enable CORS for Apple endpoints (To Allow form_post response mode)
-
+2. Enable CORS for Apple endpoints (To Allow form_post response mode)
 Refer: https://is.docs.wso2.com/en/latest/learn/cors/#configuring-cors-during-deployment
 
 
