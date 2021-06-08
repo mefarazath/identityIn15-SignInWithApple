@@ -13,4 +13,4 @@ Refer: https://is.docs.wso2.com/en/latest/learn/cors/#configuring-cors-during-de
 
 
 
-Step by step guide: https://medium.com/identity-beyond-borders/sign-in-with-apple-using-wso2-identity-server-893cd47f3f5c 
+**Step by step guide:** https://medium.com/identity-beyond-borders/sign-in-with-apple-using-wso2-identity-server-893cd47f3f5c 
